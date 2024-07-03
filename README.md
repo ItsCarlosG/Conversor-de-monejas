@@ -1,16 +1,13 @@
 # Conversor de Monedas
 
-![Logo](https://link_a_tu_logo.png)
-
 ## Índice
 
 - [Descripción](#descripción)
 - [Instalación](#instalación)
-- [Uso](#uso)
+- [Estado](#estado)
+- [Caracteristicas y demostracion](#caracteristicas)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Contribuciones](#contribuciones)
 - [Autores](#autores)
-- [Licencia](#licencia)
 
 ## Descripción
 
@@ -21,3 +18,26 @@ Este proyecto es un conversor de monedas que permite convertir valores entre dif
 1. Clona este repositorio:
    ```sh
    git clone https://github.com/tu_usuario/conversor-de-monedas.git
+2. Navega al directorio del proyecto:
+   ```sh
+   cd conversor-de-monedas
+3. Asegúrate de tener Java y Maven instalados en tu sistema.
+4. Compila el proyecto con Maven:
+   ```sh
+   mvn clean install
+## Estado
+Este proyecto se encuentra en desarrollo activo.
+
+## Caracteristicas
+Conversión de monedas entre una amplia variedad de opciones.
+Interfaz de consola intuitiva para ingresar monedas y montos a convertir.
+
+## Tecnologias-utilizadas
+* Java
+* Maven
+* Google Gson
+* ExchangeRate-API
+## Autores
+Carlos Alberto Gutierrez
+Github: ItsCarlosG
+
